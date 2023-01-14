@@ -1,15 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Selin+Ceydelin&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Selin+Ceydeli&center=true&size=25">
   </a>
 </h1>
 
 ### Hi there, I am Selin Ceydeli <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-- 🔭 I’m currently working on Monster Notebook
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about anything related data analysis and data visualization
-- 📫 How to reach me: senihberkay@gmail.com
+- 🔭 I’m a Junior Computer Science and Engineering major in Sabancı University
+- 📫 How to reach me: selinceydeli@sabanciuniv.edu
 - 🌍 I'm based in Turkey, looking for new opportunities around the world
 
 <br></br>
@@ -17,7 +15,7 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-Senior Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. Working as a Database and Business Intelligence Developer at Monster Notebook.  
+Junior Computer Science and Engineering student at Sabanci University.
 </p>
 <center>
 <br>
